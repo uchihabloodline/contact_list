@@ -8,4 +8,4 @@
 
 
 
-App will start at `port:8000` in the browser on localhost.
+App will start at `port:8000` in the browser on `localhost`.
